@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+.btn_model {
+  float: left;
+  height: 25px;
+  border-radius: 5px;
+  text-align: center;
+  line-height: 25px;
+  padding-left: 10px;
+  padding-right: 10px;
+  cursor: pointer;
+}
+.queren_btn {
+  border: 1px #6495ed solid;
+  color: #6495ed;
+}
+.quxiao_btn {
+  border: 1px #a9a9a9 solid;
+  color: #a9a9a9;
+}
+.shanchu_btn {
+  border: 1px #ff0000 solid;
+  color: #ff0000;
+}
+.zengjia_btn {
+  border: 1px #228b22 solid;
+  color: #228b22;
+}
